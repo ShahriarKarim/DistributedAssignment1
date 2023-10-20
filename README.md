@@ -4,15 +4,18 @@ Start Server with java Server
 
 Start Client with java Client
 
-Once client has started need to register, select option 1
+Once client has started, need to register, select option 1
+
 Enter username and password.
+
 If your username is not unique, need to enter another usename then
 
 Once registration is complete, select option 2 to login
-Enter your username and password.
-if the password is wrong then login will fail
+
+Enter your username and password. If the password is wrong then login will fail
 
 Once logged in successfully, welcome to the Health and Fitness APP
+
 Enter your health informtion,
 
 Once your health information has been entered, can do a variety of features.
