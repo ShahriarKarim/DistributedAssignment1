@@ -1,9 +1,10 @@
 # DistributedAssignment1
 
 Start Server with java Server
+
 Start Client with java Client
 
-Once client has startted need to register, select option 1
+Once client has started need to register, select option 1
 Enter username and password.
 If your username is not unique, need to enter another usename then
 
